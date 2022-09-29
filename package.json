@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "This application used for fetch api's weather report from backend",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Weather",
+    "Application"
+  ],
+  "author": "Kishor Sarkar @gost",
+  "license": "ISC"
+}
